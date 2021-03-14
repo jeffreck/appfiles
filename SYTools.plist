@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://sv.sunyoung.com.tw/Files/SYTools/SYTools.ipa</string>
+					<string>https://drive.google.com/u/0/uc?id=1swOGKP_eirAaFxhCrhCq2EuRjtGQafhy&export=download</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://sv.sunyoung.com.tw/Files/SYTools/km_1024.png</string>
+					<string>https://raw.githubusercontent.com/jeffreck/appfiles/main/km_1024.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://sv.sunyoung.com.tw/Files/SYTools/km_1024.png</string>
+					<string>https://raw.githubusercontent.com/jeffreck/appfiles/main/km_1024.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
